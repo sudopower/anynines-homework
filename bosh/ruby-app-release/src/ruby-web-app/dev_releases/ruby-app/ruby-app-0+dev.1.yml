@@ -1,0 +1,4 @@
+name: ruby-app
+version: 0+dev.1
+commit_hash: f05e3b6
+uncommitted_changes: true
